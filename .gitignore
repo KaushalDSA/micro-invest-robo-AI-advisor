@@ -1,0 +1,47 @@
+# Java
+*.class
+*.war
+*.ear
+
+# Spring Boot
+target/
+build/
+out/
+
+# Maven
+.mvn/
+.mvnw
+.mvnw.cmd
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle/
+gradle-app.setting
+build/
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage/
+*.lcov
+
+# Docker
+*.pid
